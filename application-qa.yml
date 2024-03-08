@@ -1,1 +1,2 @@
-auth-service:10
+auth-service:
+    value: 10
